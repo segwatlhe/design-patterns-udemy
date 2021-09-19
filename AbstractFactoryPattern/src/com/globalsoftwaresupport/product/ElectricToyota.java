@@ -1,4 +1,4 @@
-package com.globalsoftwaresupport;
+package com.globalsoftwaresupport.product;
 
 public class ElectricToyota implements Car {
 

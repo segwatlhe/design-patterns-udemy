@@ -1,4 +1,8 @@
-package com.globalsoftwaresupport;
+package com.globalsoftwaresupport.abstractfactory;
+
+import com.globalsoftwaresupport.product.Car;
+import com.globalsoftwaresupport.product.ElectricFord;
+import com.globalsoftwaresupport.product.ElectricToyota;
 
 public class ElectricCarFactory implements AbstractFactory {
 
@@ -11,4 +15,5 @@ public class ElectricCarFactory implements AbstractFactory {
 		 
 		 return null;
 	}
+
 }

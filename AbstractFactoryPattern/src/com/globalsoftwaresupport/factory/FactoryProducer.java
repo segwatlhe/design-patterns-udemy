@@ -1,4 +1,8 @@
-package com.globalsoftwaresupport;
+package com.globalsoftwaresupport.factory;
+
+import com.globalsoftwaresupport.abstractfactory.AbstractFactory;
+import com.globalsoftwaresupport.abstractfactory.ElectricCarFactory;
+import com.globalsoftwaresupport.abstractfactory.PetrolCarFactory;
 
 public class FactoryProducer {
 
